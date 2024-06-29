@@ -15,7 +15,7 @@
 This project involves creating a responsive and aesthetically pleasing landing page for Starbucks using HTML, CSS, and JavaScript. The landing page is designed to reflect the brand identity of Starbucks, incorporating their iconic colors, typography, and imagery. The main purpose of the page is to provide visitors with a clear and engaging introduction to the Starbucks brand, its products, and its values.
 
 To view final page, open this link with your browser 
-https://seeker-anushri.github.io/test/
+https://seeker-anushri.github.io/Starbucks-page/
 ![image](https://github.com/seeker-Anushri/Starbucks-Landing-page/assets/112256322/21b7f501-aa7c-415e-9274-3c7f14e02e40)
 
 ![image](https://github.com/seeker-Anushri/Starbucks-Landing-page/assets/112256322/c48fa463-dd8c-4356-b327-2f58af60e47f)
