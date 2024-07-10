@@ -16,12 +16,10 @@ This project involves creating a responsive and aesthetically pleasing landing p
 
 To view final page, open this link with your browser 
 https://seeker-anushri.github.io/Starbucks-page/
-![image](https://github.com/seeker-Anushri/Starbucks-Landing-page/assets/112256322/21b7f501-aa7c-415e-9274-3c7f14e02e40)
+![image](https://github.com/seeker-Anushri/Starbucks-page/assets/112256322/ee5fb4ed-cea8-49c6-990d-45586000da67)
 
-![image](https://github.com/seeker-Anushri/Starbucks-Landing-page/assets/112256322/c48fa463-dd8c-4356-b327-2f58af60e47f)
 
-![image](https://github.com/seeker-Anushri/Starbucks-Landing-page/assets/112256322/e25973f2-38c5-48f9-aa07-9f92531e592e)
-
+![image](https://github.com/seeker-Anushri/Starbucks-page/assets/112256322/624912c8-0f2d-4491-9762-a1e861eba528)
 
 
 
