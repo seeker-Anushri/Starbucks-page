@@ -1,3 +1,4 @@
+![image](https://github.com/seeker-Anushri/Starbucks-page/assets/112256322/ee5fb4ed-cea8-49c6-990d-45586000da67)
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
@@ -16,7 +17,6 @@ This project involves creating a responsive and aesthetically pleasing landing p
 
 To view final page, open this link with your browser 
 https://seeker-anushri.github.io/Starbucks-page/
-![image](https://github.com/seeker-Anushri/Starbucks-page/assets/112256322/ee5fb4ed-cea8-49c6-990d-45586000da67)
 
 
 ![image](https://github.com/seeker-Anushri/Starbucks-page/assets/112256322/624912c8-0f2d-4491-9762-a1e861eba528)
