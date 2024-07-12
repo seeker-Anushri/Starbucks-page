@@ -1,6 +1,6 @@
 ![image](https://github.com/seeker-Anushri/Starbucks-page/assets/112256322/ee5fb4ed-cea8-49c6-990d-45586000da67)
 ## [![LiveDemo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://seeker-anushri.github.io/Starbucks-page/)
-## [![VideoDemo](https://img.shields.io/badge/Video%20Demo-Click%20Here-brightgreen)](https://www.youtube.com/watch?v=HQrjryIJV9Q)
+## [![VideoDemo](https://img.shields.io/badge/Video%20Demo-Click%20Here-brightgreen)](https://www.youtube.com/watch?v=dfrDJmyrGx4)
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
