@@ -1,6 +1,6 @@
 ![image](https://github.com/seeker-Anushri/Starbucks-page/assets/112256322/ee5fb4ed-cea8-49c6-990d-45586000da67)
-[VideoDemo](https://www.youtube.com/watch?v=dfrDJmyrGx4)
-[LiveDemo](https://seeker-anushri.github.io/Starbucks-page/)
+## [VideoDemo](https://www.youtube.com/watch?v=dfrDJmyrGx4)
+## [LiveDemo](https://seeker-anushri.github.io/Starbucks-page/)
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
